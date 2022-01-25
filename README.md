@@ -1,0 +1,2 @@
+# omocha_rote
+shiawase
